@@ -1,0 +1,31 @@
+{
+  "name": "nedb-thenify",
+  "version": "0.1.0",
+  "description": "Promisify NeDB methods by thenify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">8.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheap-pets/nedb-thenify.git"
+  },
+  "keywords": [
+    "nedb",
+    "thenify",
+    "promise"
+  ],
+  "author": "scrollbar-ww",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cheap-pets/nedb-thenify/issues"
+  },
+  "homepage": "https://github.com/cheap-pets/nedb-thenify#readme",
+  "dependencies": {
+    "nedb": "^1.8.0",
+    "thenify": "^3.3.0"
+  }
+}
