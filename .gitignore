@@ -66,3 +66,6 @@ yarn.lock
 
 # test db file
 *.db
+
+# vscode file
+.vscode
