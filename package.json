@@ -9,6 +9,9 @@
   "engines": {
     "node": ">8.9.0"
   },
+  "files": [
+    "index.js"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cheap-pets/nedb-thenify.git"
