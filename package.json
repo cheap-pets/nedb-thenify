@@ -1,6 +1,6 @@
 {
   "name": "nedb-thenify",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Promisify NeDB methods by thenify",
   "main": "index.js",
   "scripts": {
@@ -24,8 +24,10 @@
     "url": "https://github.com/cheap-pets/nedb-thenify/issues"
   },
   "homepage": "https://github.com/cheap-pets/nedb-thenify#readme",
+  "peerDependencies": {
+    "nedb": "^1.8.0"
+  },
   "dependencies": {
-    "nedb": "^1.8.0",
     "thenify": "^3.3.0"
   }
 }

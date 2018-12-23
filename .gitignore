@@ -56,7 +56,10 @@ typings/
 
 # dotenv environment variables file
 .env
+
+# package lock file
 package-lock.json
+yarn.lock
 
 # Mac OS file
 .DS_Store
